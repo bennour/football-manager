@@ -1,0 +1,23 @@
+# Class
+*.class
+
+# Logs
+*.log
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+
+# Build
+build/
+out/
+target/
+*.jar
+*.war
+*.ear
+
+# Tmp
+*.swp
+*.swo
